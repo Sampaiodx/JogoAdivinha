@@ -1,0 +1,16 @@
+{
+"name": "Jogo Adivinha",
+"short_name": "Adivinha",
+"description": "Um jogo simples de adivinhação de números.",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#fff",
+"theme_color": "#fff",
+"icons": [
+{
+"src": "./img/Ponto-Interrogacao.png",
+"sizes": "any",
+"type": "image/x-icon"
+}
+]
+}
